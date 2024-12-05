@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\",
+  "WorkspaceRootPath": "D:\\Github\\AutocadInsert_table_26-04-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocadinsert_table_26-04-2024\\tableinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|d:\\github\\autocadinsert_table_26-04-2024\\tableinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:tableinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\winstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:winstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|d:\\github\\autocadinsert_table_26-04-2024\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocadinsert_table_26-04-2024\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocadinsert_table_26-04-2024\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|D:\\Github\\AutocadInsert_table_26-04-2024\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|c:\\users\\fishman\\documents\\github\\autocadinsert_table_26-04-2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|D:\\Github\\AutocadInsert_table_26-04-2024\\winstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:winstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|D:\\Github\\AutocadInsert_table_26-04-2024\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|D:\\Github\\AutocadInsert_table_26-04-2024\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5655BF5-CF05-49C5-84E5-D89B66CDFD74}|AutocadInsert_table_26-04-2024.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,19 +42,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -70,54 +70,69 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Github\\AutocadInsert_table_26-04-2024\\Data.cs",
+              "RelativeDocumentMoniker": "Data.cs",
+              "ToolTip": "D:\\Github\\AutocadInsert_table_26-04-2024\\Data.cs",
+              "RelativeToolTip": "Data.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T17:32:27.076Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TableInsert.cs",
-              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\TableInsert.cs",
+              "DocumentMoniker": "D:\\Github\\AutocadInsert_table_26-04-2024\\TableInsert.cs",
               "RelativeDocumentMoniker": "TableInsert.cs",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\TableInsert.cs",
-              "RelativeToolTip": "TableInsert.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAIAwwDIAAAAvAAAAAAAAAA==",
+              "ToolTip": "D:\\Github\\AutocadInsert_table_26-04-2024\\TableInsert.cs*",
+              "RelativeToolTip": "TableInsert.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAIAwwD8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T09:51:38.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\Class1.cs",
+              "DocumentMoniker": "D:\\Github\\AutocadInsert_table_26-04-2024\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\Class1.cs",
+              "ToolTip": "D:\\Github\\AutocadInsert_table_26-04-2024\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:39:57.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:39:57.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UserControl1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\UserControl1.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\AutocadInsert_table_26-04-2024\\UserControl1.xaml.cs",
               "RelativeDocumentMoniker": "UserControl1.xaml.cs",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\UserControl1.xaml.cs",
+              "ToolTip": "D:\\Github\\AutocadInsert_table_26-04-2024\\UserControl1.xaml.cs",
               "RelativeToolTip": "UserControl1.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAIAwwCAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:17:51.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T09:17:51.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WinStart.cs",
-              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\WinStart.cs",
+              "DocumentMoniker": "D:\\Github\\AutocadInsert_table_26-04-2024\\WinStart.cs",
               "RelativeDocumentMoniker": "WinStart.cs",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\WinStart.cs",
+              "ToolTip": "D:\\Github\\AutocadInsert_table_26-04-2024\\WinStart.cs",
               "RelativeToolTip": "WinStart.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAMwBEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UserControl1.xaml",
-              "DocumentMoniker": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\UserControl1.xaml",
+              "DocumentMoniker": "D:\\Github\\AutocadInsert_table_26-04-2024\\UserControl1.xaml",
               "RelativeDocumentMoniker": "UserControl1.xaml",
-              "ToolTip": "C:\\Users\\Fishman\\Documents\\GitHub\\AutocadInsert_table_26-04-2024\\UserControl1.xaml",
+              "ToolTip": "D:\\Github\\AutocadInsert_table_26-04-2024\\UserControl1.xaml",
               "RelativeToolTip": "UserControl1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-05T09:17:28.028Z",

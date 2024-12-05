@@ -5,11 +5,25 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:AutocadInsert_table_26_04_2024"
              mc:Ignorable="d" 
-             d:DesignHeight="150" d:DesignWidth="400">
+             d:DesignHeight="100" d:DesignWidth="200" Title="06-12-2024 U_83 InsertTable">
     <Grid>
-        <StackPanel>
-            <TextBox x:Name="TextUser" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible"  AcceptsReturn="True" Height="115"  />
-            <Button Content="Click Me!"  HorizontalAlignment="Stretch" Click="Button_Click"/>
-        </StackPanel>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+           
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="TextUser" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible"  AcceptsReturn="True" Grid.RowSpan="6"
+                 />
+            <Button Content="Click Me!"  HorizontalAlignment="Stretch" Click="Button_Click" Grid.Row="6" />
+
     </Grid>
 </Window>

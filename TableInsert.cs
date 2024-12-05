@@ -61,7 +61,7 @@ namespace AutocadInsert_table_26_04_2024
                 // Use a nested loop to add and format each cell
                 for (int i = 0; i < countrow; i++)
                 {
-                    for (int j = 0; j < 3; j++)
+                    for (int j = 0; j < 4; j++)
                     {
                         tb.TextHeight(i, j);
                         tb.SetTextString(i, j, str[i, j]);
