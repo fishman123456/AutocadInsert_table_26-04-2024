@@ -34,3 +34,8 @@ C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\Autoc
 C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\AutocadI.5A1C7F50.Up2Date
 C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\AutocadInsert_table_26-04-2024.dll
 C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\AutocadInsert_table_26-04-2024.pdb
+C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\UserControl1.g.cs
+C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\AutocadInsert_table_26-04-2024_MarkupCompile.cache
+C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\AutocadInsert_table_26-04-2024_MarkupCompile.lref
+C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\UserControl1.baml
+C:\Users\Fishman\Documents\GitHub\AutocadInsert_table_26-04-2024\obj\Debug\AutocadInsert_table_26-04-2024.g.resources

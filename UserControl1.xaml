@@ -1,0 +1,15 @@
+﻿<Window x:Class="AutocadInsert_table_26_04_2024.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AutocadInsert_table_26_04_2024"
+             mc:Ignorable="d" 
+             d:DesignHeight="150" d:DesignWidth="400">
+    <Grid>
+        <StackPanel>
+            <TextBox x:Name="TextUser" TextWrapping="Wrap" VerticalScrollBarVisibility="Visible"  AcceptsReturn="True" Height="115"  />
+            <Button Content="Click Me!"  HorizontalAlignment="Stretch" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
