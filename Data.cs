@@ -11,7 +11,7 @@ namespace AutocadInsert_table_26_04_2024
     public class Data
     {
         public string Poz { get; set; }
-        public string Name { get; set; } 
+        public string Name { get; set; }
         public string Num { get; set; }
         public string Description { get; set; }
 
@@ -23,8 +23,28 @@ namespace AutocadInsert_table_26_04_2024
             this.Num = num;
             this.Description = description;
         }
-       
-        public List<Data> razdel(string  str)
+        public Data(string poz, string name, string num)
+        {
+            this.Poz = poz;
+            this.Name = name;
+            this.Num = num;
+            this.Description = "description";
+        }
+        public Data(string poz, string name)
+        {
+            this.Poz = poz;
+            this.Name = name;
+            this.Num = "num";
+            this.Description = "description";
+        }
+        public Data(string poz)
+        {
+            this.Poz = poz;
+            this.Name = "name";
+            this.Num = "num";
+            this.Description = "description";
+        }
+        public List<Data> razdel(string str)
         {
             List<Data> listData = new List<Data>();
             string patternNstr = "\n";
@@ -32,18 +52,17 @@ namespace AutocadInsert_table_26_04_2024
             string[] strings = Regex.Split(str, patternNstr);
             try
             {
-
-           
-            foreach (string s in strings)
-            {
+                // перебираем и заполняем пустые строки 06-12-2024
+                foreach (string s in strings)
+                {
                     string[] stringData = Regex.Split(s, patternTab);
-                    Data data = new Data();
+                    Data data = new Data("F","F","F","F");
                     data.Poz = stringData[0];
-                    data.Name = stringData[1];
-                    data.Num = stringData[2];
-                    data.Description = stringData[3];
-                    listData.Add(data);  
-            }
+                    if (stringData.Length-1 > 1) { data.Name = stringData[1]; }
+                    if (stringData.Length-1 > 2) {  data.Num = stringData[2]; }
+                    if(stringData.Length- 1 > 3) { data.Description = stringData[3]; }
+                    listData.Add(data);
+                }
             }
             catch (Exception ex)
             {
