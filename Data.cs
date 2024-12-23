@@ -56,7 +56,7 @@ namespace AutocadInsert_table_26_04_2024
                 foreach (string s in strings)
                 {
                     string[] stringData = Regex.Split(s, patternTab);
-                    Data data = new Data("F","F","F","F");
+                    Data data = new Data(" "," "," "," ");
                     data.Poz = stringData[0];
                     if (stringData.Length-1 > 1) { data.Name = stringData[1]; }
                     if (stringData.Length-1 > 2) {  data.Num = stringData[2]; }
